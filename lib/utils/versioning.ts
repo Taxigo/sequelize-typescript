@@ -1,4 +1,4 @@
-import * as sequelize from 'sequelize';
+import * as sequelize from 'sequelize-v5';
 
 /**
  * Version of sequelize

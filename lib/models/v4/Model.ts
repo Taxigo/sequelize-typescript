@@ -1,4 +1,4 @@
-import {Model as SeqModel} from 'sequelize';
+import {Model as SeqModel} from 'sequelize-v5';
 import {BaseModel} from "../BaseModel";
 import {IDummyConstructor} from "../../interfaces/IDummyConstructor";
 

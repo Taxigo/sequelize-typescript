@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import OriginSequelize = require('sequelize');
+import OriginSequelize = require('sequelize-v5');
 import {Model} from "../Model";
 import {SequelizeConfig} from "../../types/SequelizeConfig";
 import {getModelName, getAttributes, getOptions} from "../../services/models";
