@@ -3,6 +3,7 @@ import {addAttributeOptions} from '../services/models';
 
 type UniqueOptions = boolean | string | { name: string; msg: string };
 
+export { UniqueOptions };
 /**
  * Sets unique option as specified in options and returns decorator
  */
